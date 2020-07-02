@@ -9,7 +9,7 @@ export default {
   name: "App",
   data() {
     return {};
-  },
+  },  
   beforeMount() {
     let account = JSON.parse(localStorage.getItem("account"));
  

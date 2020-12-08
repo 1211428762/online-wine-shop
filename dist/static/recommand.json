@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "img": "../../static/img/beizhouchun-s.jpg",
+            "name": "贝州春",
+            "price": "70"
+        },
+        {
+            "img": "../../static/img/weishiji-s.jpg",
+            "name": "威士忌",
+            "price": "160"
+        },
+        {
+            "img": "../../static/img/olive-s.jpg",
+            "name": "橄榄酒",
+            "price": "60"
+        },
+        {
+            "img": "../../static/img/xijiu-s.jpg",
+            "name": "喜酒",
+            "price": "100"
+        }
+    ],
+    [
+        {
+            "img": "../../static/img/renyu-s.jpg",
+            "name": "美人鱼",
+            "price": "70"
+        },
+        {
+            "img": "../../static/img/huangjiu-s.jpg",
+            "name": "黄酒",
+            "price": "110"
+        },
+        {
+            "img": "../../static/img/jiugui-s.jpg",
+            "name": "酒鬼",
+            "price": "60"
+        },
+        {
+            "img": "../../static/img/yangshen-s.jpg",
+            "name": "十二红",
+            "price": "100"
+        }
+    ]
+]
